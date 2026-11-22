@@ -1,2 +1,1 @@
-# tdd
-rip legend
+# Terry Driven Development
